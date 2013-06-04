@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="168842A1-1D01-4685-3AAB-44487F635C0F" ownedBy="BC90D462-6639-4087-8527-6BB9E528E07D">
+  <arch:name>
+    <arch:string>Bone 80</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_318b59136</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>775B54BC-F274-4D48-E8C6-18B42C116D0F</arch:variableID>
+          <arch:decimal>0.00062</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/71754F61-BDE2-4D37-6E65-3ADC545A7047">71754F61-BDE2-4D37-6E65-3ADC545A7047</oc:propid>
+          <oc:var_label type="decimal">Sorting Number</oc:var_label>
+          <oc:show_val>0.00062</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6D614888-54B1-4018-200F-B36292BB1A16</arch:variableID>
+          <arch:valueID>C5382DB1-6828-4A10-9B88-263869EA4DC8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4947674F-4F92-4FAE-509C-B8519D46D920">4947674F-4F92-4FAE-509C-B8519D46D920</oc:propid>
+          <oc:var_label type="nominal">Excavation Method</oc:var_label>
+          <oc:show_val>hand collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>77857FB0-AF41-41C5-8DD4-2C4861246813</arch:variableID>
+          <arch:valueID>0E7DC850-EAEB-40FC-EB19-B1D6C5E32998</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/15EF3892-DF9B-4EF8-CE55-8C8F1F727B07">15EF3892-DF9B-4EF8-CE55-8C8F1F727B07</oc:propid>
+          <oc:var_label type="nominal">Mammal</oc:var_label>
+          <oc:show_val>Bos primigenius f. taur.</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="77857FB0-AF41-41C5-8DD4-2C4861246813" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="15EF3892-DF9B-4EF8-CE55-8C8F1F727B07" localURI="http://opencontext.org/properties/15EF3892-DF9B-4EF8-CE55-8C8F1F727B07" href="http://eol.org/pages/328699">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Bos taurus Linnaeus, 1758</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>50CF6431-56C4-469D-0FC5-8231480816FF</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/E142AFE3-0B2F-46C3-670A-9CBDFAE086AF">E142AFE3-0B2F-46C3-670A-9CBDFAE086AF</oc:propid>
+          <oc:var_label type="integer">Nisp</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7718E10C-99BB-45F3-7D4F-ACEB4D6DB2F8</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">19</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D45115B5-5A9D-46D7-6DF7-45C37663E6AC">D45115B5-5A9D-46D7-6DF7-45C37663E6AC</oc:propid>
+          <oc:var_label type="decimal">Weight</oc:var_label>
+          <oc:show_val>19</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F94BA95D-D841-45FF-BA92-609ED836C399</arch:variableID>
+          <arch:valueID>2784CA55-536C-416B-5D6A-AAB2FB14E05F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/14915285-9F34-40CE-9829-D9167F9613EB">14915285-9F34-40CE-9829-D9167F9613EB</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Tibia</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="F94BA95D-D841-45FF-BA92-609ED836C399" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="14915285-9F34-40CE-9829-D9167F9613EB" localURI="http://opencontext.org/properties/14915285-9F34-40CE-9829-D9167F9613EB" href="http://purl.obolibrary.org/obo/UBERON_0000979">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>tibia</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D17B110B-3E64-4270-DBDA-E73850954831</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/6E5FB893-9259-4AC9-4BDC-8F36FFD41D83">6E5FB893-9259-4AC9-4BDC-8F36FFD41D83</oc:propid>
+          <oc:var_label type="integer"># Of Fragments</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>51DF0A66-3ACE-4DF3-0735-E78C61F9B3F6</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/1A0E0504-8F26-471A-EE2C-D67A467A51A7">1A0E0504-8F26-471A-EE2C-D67A467A51A7</oc:propid>
+          <oc:var_label type="boolean">Proximal and Shaft Present</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6BF2E09F-B8B0-4B8C-A156-7B80A3599376</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/52408F48-61FD-4759-B094-9C05C97F83DC">52408F48-61FD-4759-B094-9C05C97F83DC</oc:propid>
+          <oc:var_label type="boolean">Caudal Present</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2" cite="contributor">
+            <oc:name>Alfred Galik</oc:name>
+            <oc:id>62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CDBEEBB5-BE51-4933-5472-E0CE92A3F005">
+        <oc:name>Çukuriçi Höyük</oc:name>
+        <oc:id>CDBEEBB5-BE51-4933-5472-E0CE92A3F005</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/372B72B1-2B6B-4C39-5EF6-CD10C7E74B28">
+        <oc:name>Phase VIII</oc:name>
+        <oc:id>372B72B1-2B6B-4C39-5EF6-CD10C7E74B28</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Çukuriçi Höyük Zooarchaeology: Bone 80 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-26</dc:date>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:subject>Late Neolithic</dc:subject>
+    <dc:subject>Late Chalcolithic</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:subject>Early Chalcolithic</dc:subject>
+    <dc:subject>Early Bronze Age</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Agriculture</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Çukuriçi Höyük</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2">Alfred Galik</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/770794B8-E5C1-4E0B-65BA-08F0B040B4A2">Alfred Galik</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/168842A1-1D01-4685-3AAB-44487F635C0F</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/BC90D462-6639-4087-8527-6BB9E528E07D">Çukuriçi Höyük Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=%C3%87ukuri%C3%A7i+H%C3%B6y%C3%BCk+Zooarchaeology%3A+Bone+80+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Subsistence&amp;rft.subject=Late+Neolithic&amp;rft.subject=Late+Chalcolithic&amp;rft.subject=Economy&amp;rft.subject=Early+Chalcolithic&amp;rft.subject=Early+Bronze+Age&amp;rft.subject=Anatolia&amp;rft.subject=Agriculture&amp;rft.subject=Turkey&amp;rft.subject=Zooarchaeology&amp;rft.subject=%C3%87ukuri%C3%A7i+H%C3%B6y%C3%BCk&amp;rft.contributor=Alfred+Galik&amp;rft.creator=Alfred+Galik&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F168842A1-1D01-4685-3AAB-44487F635C0F</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.929167</oc:geo_lat>
+      <oc:geo_long>27.359444</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/CDBEEBB5-BE51-4933-5472-E0CE92A3F005">
+        <oc:source_name>Çukuriçi Höyük</oc:source_name>
+        <oc:source_id>CDBEEBB5-BE51-4933-5472-E0CE92A3F005</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-05-19T21:04:46-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/05/19 21:04:46</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,200 BCE - 6,000 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6200</oc:time_start>
+          <oc:time_finish>-6000</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/372B72B1-2B6B-4C39-5EF6-CD10C7E74B28">
+            <oc:source_name>Phase VIII</oc:source_name>
+            <oc:source_id>372B72B1-2B6B-4C39-5EF6-CD10C7E74B28</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T17:31:39-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

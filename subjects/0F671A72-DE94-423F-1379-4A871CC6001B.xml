@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="0F671A72-DE94-423F-1379-4A871CC6001B" ownedBy="BC90D462-6639-4087-8527-6BB9E528E07D">
+  <arch:name>
+    <arch:string>Bone 145</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_318b59136</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>775B54BC-F274-4D48-E8C6-18B42C116D0F</arch:variableID>
+          <arch:decimal>0.00145</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/54C000DF-0E7F-46AE-C6FE-D3674EB13365">54C000DF-0E7F-46AE-C6FE-D3674EB13365</oc:propid>
+          <oc:var_label type="decimal">Sorting Number</oc:var_label>
+          <oc:show_val>0.00145</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6D614888-54B1-4018-200F-B36292BB1A16</arch:variableID>
+          <arch:valueID>C5382DB1-6828-4A10-9B88-263869EA4DC8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4947674F-4F92-4FAE-509C-B8519D46D920">4947674F-4F92-4FAE-509C-B8519D46D920</oc:propid>
+          <oc:var_label type="nominal">Excavation Method</oc:var_label>
+          <oc:show_val>hand collected</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>77857FB0-AF41-41C5-8DD4-2C4861246813</arch:variableID>
+          <arch:valueID>F8F47F1C-EE8F-47C9-CAB9-D33C78E73189</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F784CB84-5C4B-47A8-1D98-E3FECA9824DA">F784CB84-5C4B-47A8-1D98-E3FECA9824DA</oc:propid>
+          <oc:var_label type="nominal">Mammal</oc:var_label>
+          <oc:show_val>Dama dama</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="77857FB0-AF41-41C5-8DD4-2C4861246813" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="F784CB84-5C4B-47A8-1D98-E3FECA9824DA" localURI="http://opencontext.org/properties/F784CB84-5C4B-47A8-1D98-E3FECA9824DA" href="http://eol.org/pages/313992">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Dama dama (Linnaeus, 1758)</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>50CF6431-56C4-469D-0FC5-8231480816FF</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/E142AFE3-0B2F-46C3-670A-9CBDFAE086AF">E142AFE3-0B2F-46C3-670A-9CBDFAE086AF</oc:propid>
+          <oc:var_label type="integer">Nisp</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7718E10C-99BB-45F3-7D4F-ACEB4D6DB2F8</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">8.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/1E7957AE-6027-4074-B786-39703E77214C">1E7957AE-6027-4074-B786-39703E77214C</oc:propid>
+          <oc:var_label type="decimal">Weight</oc:var_label>
+          <oc:show_val>8.1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F94BA95D-D841-45FF-BA92-609ED836C399</arch:variableID>
+          <arch:valueID>1A83D2A5-2EDE-40E3-64C7-4EF182AD130E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AD75BA22-0C9A-4F46-20E3-E338CE19ADDF">AD75BA22-0C9A-4F46-20E3-E338CE19ADDF</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Phalanx prox.</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="F94BA95D-D841-45FF-BA92-609ED836C399" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0079">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="AD75BA22-0C9A-4F46-20E3-E338CE19ADDF" localURI="http://opencontext.org/properties/AD75BA22-0C9A-4F46-20E3-E338CE19ADDF" href="http://purl.obolibrary.org/obo/UBERON_0004302">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>proximal phalanx</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9D1F26B8-D982-457F-9403-0C72FAF5A965</arch:variableID>
+          <arch:valueID>59087231-E2ED-4178-44D2-A5F3681A8CBD</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B5A0E468-C338-4D53-B793-52EFFEB8A5BF">B5A0E468-C338-4D53-B793-52EFFEB8A5BF</oc:propid>
+          <oc:var_label type="nominal">Phalanx</oc:var_label>
+          <oc:show_val>P.prox.ant.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6D4AC8DD-8C3A-45F2-9321-FE1FF5AAE744</arch:variableID>
+          <arch:valueID>DF7072DF-359F-47B1-0CA3-65DD5B24D4D3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A8CA8FFA-29EF-4FF1-8B8B-9E2B3C96C1CD">A8CA8FFA-29EF-4FF1-8B8B-9E2B3C96C1CD</oc:propid>
+          <oc:var_label type="nominal">Body Size</oc:var_label>
+          <oc:show_val>small</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>24A4849A-7B99-46E3-E5F1-4B5E8B865225</arch:variableID>
+          <arch:valueID>9D9ABF15-1287-41A4-4D19-096434D848A1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B068CD49-C998-44C6-CD22-F9F942873EDE">B068CD49-C998-44C6-CD22-F9F942873EDE</oc:propid>
+          <oc:var_label type="nominal">Fusion Status</oc:var_label>
+          <oc:show_val>pE_f</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="24A4849A-7B99-46E3-E5F1-4B5E8B865225" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0077">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has fusion character</oc:label>
+              <oc:targetLink localType="property" localID="B068CD49-C998-44C6-CD22-F9F942873EDE" localURI="http://opencontext.org/properties/B068CD49-C998-44C6-CD22-F9F942873EDE" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0069">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+                <oc:label>Proximal epiphysis fused</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>69F94A63-8A2C-407A-1571-3F5444AFCC4B</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/D1192CFA-3D98-40B8-F0A8-A71A7196C9A3">D1192CFA-3D98-40B8-F0A8-A71A7196C9A3</oc:propid>
+          <oc:var_label type="integer"># Of Complete Bones</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4B13B2B4-E837-4699-42E0-1C78047D7E9F</arch:variableID>
+          <oc:annotations about="4B13B2B4-E837-4699-42E0-1C78047D7E9F" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0031" name="GLpe" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">36.02</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/31495FB3-D96C-4864-E7E6-2CADD3D6FF09">31495FB3-D96C-4864-E7E6-2CADD3D6FF09</oc:propid>
+          <oc:var_label type="decimal">Glpe</oc:var_label>
+          <oc:show_val>36.02</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>14940773-C2EE-48B6-C74E-F9432E11CC95</arch:variableID>
+          <oc:annotations about="14940773-C2EE-48B6-C74E-F9432E11CC95" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0010" name="Bp" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">11.87</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/860B0456-A35D-4810-955C-37E280FDD04B">860B0456-A35D-4810-955C-37E280FDD04B</oc:propid>
+          <oc:var_label type="decimal">Bp</oc:var_label>
+          <oc:show_val>11.87</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E175401E-1F93-4BFB-D291-346003327E9F</arch:variableID>
+          <oc:annotations about="E175401E-1F93-4BFB-D291-346003327E9F" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0020" name="Dp" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">13.84</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E23249C0-4BDD-420F-B4AB-432A58F3D194">E23249C0-4BDD-420F-B4AB-432A58F3D194</oc:propid>
+          <oc:var_label type="decimal">Dp</oc:var_label>
+          <oc:show_val>13.84</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>15195D09-2AF8-4346-6805-FD38133BDDDE</arch:variableID>
+          <oc:annotations about="15195D09-2AF8-4346-6805-FD38133BDDDE" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0050" name="SD" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">9.46</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7674FE03-5C21-4303-8052-FEE27D892FFC">7674FE03-5C21-4303-8052-FEE27D892FFC</oc:propid>
+          <oc:var_label type="decimal">Sd</oc:var_label>
+          <oc:show_val>9.46</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>07EC1BEE-FEB2-45AE-6F60-149C0D738125</arch:variableID>
+          <oc:annotations about="07EC1BEE-FEB2-45AE-6F60-149C0D738125" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="Measurement type"/>
+              <oc:targetLink href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0009" name="Bd" abrv="">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">10.36</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/0A2677E1-BD31-47D9-B13D-630AC937C5DE">0A2677E1-BD31-47D9-B13D-630AC937C5DE</oc:propid>
+          <oc:var_label type="decimal">Bd</oc:var_label>
+          <oc:show_val>10.36</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2" cite="contributor">
+            <oc:name>Alfred Galik</oc:name>
+            <oc:id>62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CDBEEBB5-BE51-4933-5472-E0CE92A3F005">
+        <oc:name>Çukuriçi Höyük</oc:name>
+        <oc:id>CDBEEBB5-BE51-4933-5472-E0CE92A3F005</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/372B72B1-2B6B-4C39-5EF6-CD10C7E74B28">
+        <oc:name>Phase VIII</oc:name>
+        <oc:id>372B72B1-2B6B-4C39-5EF6-CD10C7E74B28</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Çukuriçi Höyük Zooarchaeology: Bone 145 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-26</dc:date>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:subject>Late Neolithic</dc:subject>
+    <dc:subject>Late Chalcolithic</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:subject>Early Chalcolithic</dc:subject>
+    <dc:subject>Early Bronze Age</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Agriculture</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Çukuriçi Höyük</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/62EE9ABC-AD45-4F92-5A7B-B16A092CB5C2">Alfred Galik</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/770794B8-E5C1-4E0B-65BA-08F0B040B4A2">Alfred Galik</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/0F671A72-DE94-423F-1379-4A871CC6001B</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/BC90D462-6639-4087-8527-6BB9E528E07D">Çukuriçi Höyük Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=%C3%87ukuri%C3%A7i+H%C3%B6y%C3%BCk+Zooarchaeology%3A+Bone+145+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Subsistence&amp;rft.subject=Late+Neolithic&amp;rft.subject=Late+Chalcolithic&amp;rft.subject=Economy&amp;rft.subject=Early+Chalcolithic&amp;rft.subject=Early+Bronze+Age&amp;rft.subject=Anatolia&amp;rft.subject=Agriculture&amp;rft.subject=Turkey&amp;rft.subject=Zooarchaeology&amp;rft.subject=%C3%87ukuri%C3%A7i+H%C3%B6y%C3%BCk&amp;rft.contributor=Alfred+Galik&amp;rft.creator=Alfred+Galik&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F0F671A72-DE94-423F-1379-4A871CC6001B</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.929167</oc:geo_lat>
+      <oc:geo_long>27.359444</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/CDBEEBB5-BE51-4933-5472-E0CE92A3F005">
+        <oc:source_name>Çukuriçi Höyük</oc:source_name>
+        <oc:source_id>CDBEEBB5-BE51-4933-5472-E0CE92A3F005</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-05-19T20:59:07-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/05/19 20:59:07</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,200 BCE - 6,000 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6200</oc:time_start>
+          <oc:time_finish>-6000</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/372B72B1-2B6B-4C39-5EF6-CD10C7E74B28">
+            <oc:source_name>Phase VIII</oc:source_name>
+            <oc:source_id>372B72B1-2B6B-4C39-5EF6-CD10C7E74B28</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-19T17:31:39-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
