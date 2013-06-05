@@ -209,7 +209,12 @@
             </div>
             
         </div>    
-        
+        <h5>Image Credit</h5>
+        <p class="muted">
+        Credit for this project's illustrative image 
+        <a href="http://en.wikipedia.org/wiki/File:Cukurici_grabung.jpg">Wikimedia</a>
+        (CC-0 Public Domain)
+        </p>
     </div>
         </div>
       </arch:string>
